@@ -1,6 +1,11 @@
+### 基本情報
+
 |key|value|
 |---|-----|
 |Name|Kaito Otsumura|
 |Birth|1998/01/16|
 |Location|東京|
 |Mail|kaikai25250116@gmail.com|
+
+### スキル
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,vue,nuxtjs,jquery,nodejs,nestjs,python,java,react,nextjs,rails,tailwind,bootstrap,aws,docker,jenkins,git,github,figma" />
