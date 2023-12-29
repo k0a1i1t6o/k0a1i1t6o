@@ -7,5 +7,5 @@
 |Mail|kaikai25250116@gmail.com|
 
 ## My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,vue,nuxtjs,jquery,nodejs,nestjs,python,java,react,nextjs,rails,tailwind,bootstrap,aws,docker,jenkins,git,github,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,vue,nuxtjs,jquery,nodejs,nestjs,python,java,react,nextjs,rails,tailwind,bootstrap,aws,docker,jenkins,git,github,figma" width="55%"/>
 
